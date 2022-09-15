@@ -12,7 +12,7 @@ export default function Navigation() {
           <Link to="/contacto" className="text-white ms-3 text-decoration-none">
           Contacto
           </Link>
-          <Navbar.Brand className="text-white ">Happy Cake</Navbar.Brand> 🍰
+          <Navbar.Brand className="text-white justify-content-start">Happy Cake</Navbar.Brand> 🍰
         </Container>
       </Navbar>
     </>

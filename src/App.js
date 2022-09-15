@@ -4,8 +4,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./views/Home";
 import Contacto from "./views/Contacto";
 import NotFound from "./views/NotFound";
-
-
 import Navbar from "./components/Navbar";
 
 
